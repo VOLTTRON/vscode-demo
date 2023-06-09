@@ -1,6 +1,7 @@
-# Creating a vscode development environment for VOLTTRON and Eclipse VOLTTRON
+# Creating a Codespaces development environment for VOLTTRON and Eclipse VOLTTRON
 
-The purpose of this repository is to allow the user to create their own codespaces environment for creating new agents or adding additional capabilities to existing agents.
+The purpose of this repository is to allow the user to create their own codespaces environment for creating new agents or adding additional capabilities to existing agents.  
+This repository was built for the Eclipse VOLTTRON Users group (https://projects.eclipse.org/projects/iot.volttron).  Join the mailing list for upcoming topics (https://accounts.eclipse.org/mailing-list/volttron-dev).
 
 ## Creation 
 
