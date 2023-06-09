@@ -1,5 +1,3 @@
-sudo apt update
-sudo apt install -y python3-dev python3-venv 
 
 python3 -m pip install --user pipx
 python3 -m pipx ensurepath
